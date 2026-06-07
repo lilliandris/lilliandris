@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: lilliandris
-          outputs: dist/github-snake.svg
+          outputs: dist/github-snake.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
