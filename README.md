@@ -38,7 +38,7 @@ Student at the Faculty of Information Technology, Brno University of Technology 
 
 🔗 More on my [portfolio (coming soon)](https://www.stud.fit.vut.cz/~xbukovp00/proj2/).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xbukovp00&show_icons=true&theme=dark)
-![Streak](https://streak-stats.demolab.com?user=xbukovp00&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilliandris&show_icons=true&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=lilliandris&theme=dark)
 
-![snake](https://raw.githubusercontent.com/xbukovp00/xbukovp00/output/github-snake.svg)
+![snake](https://raw.githubusercontent.com/lilliandris/lilliandris/output/github-snake.svg)
