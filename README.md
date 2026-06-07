@@ -4,6 +4,8 @@ Student at the Faculty of Information Technology, Brno University of Technology 
 
 > "I see my path, but I don't know where it leads. Not knowing where I'm going is what inspires me to travel it." — Rosalia de Castro
 
+![snake](https://raw.githubusercontent.com/lilliandris/lilliandris/output/github-snake.svg)
+
 ## Technologies & Tools
 
 - **Languages & frameworks:** C++ (server core development, OOP, systems programming), Python (Matplotlib, NumPy, SciPy, Jupyter, mysql.connector, paramiko), Node.js, HTML5, CSS3, Bash/Linux scripting
@@ -37,5 +39,3 @@ Student at the Faculty of Information Technology, Brno University of Technology 
 ---
 
 🔗 More on my [portfolio (coming soon)](https://www.stud.fit.vut.cz/~xbukovp00/proj2/).
-
-![snake](https://raw.githubusercontent.com/lilliandris/lilliandris/output/github-snake.svg)
