@@ -38,4 +38,4 @@ Student at the Faculty of Information Technology, Brno University of Technology 
 
 ---
 
-🔗 More on my [portfolio (coming soon)](https://www.stud.fit.vut.cz/~xbukovp00/proj2/).
+🔗 More on my [portfolio (coming soon)]().
