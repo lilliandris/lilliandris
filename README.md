@@ -20,7 +20,7 @@ Student at the Faculty of Information Technology, Brno University of Technology 
 | **Bradavice-online.cz** | MySQL & C++ Developer, Game Master | 2022 – present | MySQL and C++ development, defining team structure, Python monitoring scripts connected to the Discord API |
 | **P-MAT n.o.** | Lecturer & Organizer | 2021 – present | Creating problems, writing solutions, evaluating students, organizing events (Pikopretek, Matboj), organising seminar and camps |
 | **Gymnázium Jura Hronca** | Student | 2022 – 2025 | Secondary education |
-| **Trojsten o.z.** | Organizer & Lecturer | 2025 – present | Evaluating problems, organizing Náboj, organising Physical seminar and camps |
+| **Trojsten o.z.** | Organizer & Lecturer | 2025 – present | Evaluating problems, organizing Náboj, organising Physics seminar and camps |
 | **Nationale Nederlanden** | Information Risk Analyst | 2025 – present | Risk analysis, VBA automation, working in an English-language environment |
 | **FIT VUT Brno** | Student | 2025 – present | Bachelor's studies, Information Technology programme |
 
